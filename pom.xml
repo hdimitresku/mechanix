@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.mapstruct</groupId>
             <artifactId>mapstruct</artifactId>
-            <version>1.4.2.Final</version> <!-- Replace with the latest version -->
+            <version>1.5.5.Final</version> <!-- Replace with the latest version -->
         </dependency>
         <dependency>
             <groupId>org.mapstruct</groupId>
